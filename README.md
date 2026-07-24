@@ -65,10 +65,9 @@ reports/ExtentReport.html
 - **Checkout (11 tests):** valid checkout, missing field validation, cancel flows, order total, confirmation page
 - **Products Page (8 tests):** sorting, product count, menu, logout, footer links
 
-## Screenshots
+## Sample Test Report
 
-### Test Execution in Console
-![Test Execution](screenshots/test-execution.png)
+![Extent Report Screenshot](docs-images/extent-report.png)
 
 ## Author
 Chitra P
